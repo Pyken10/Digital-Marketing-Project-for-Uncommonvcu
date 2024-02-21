@@ -21,8 +21,8 @@
 * Digital Marketing Strategy: Crafting and implementing tactics to boost online engagement and fan interaction.
 
 # UncommonVCU Website
-![](Uncommonvcu Website.png)
+![](Uncommonvcu_Website.png)
 
 # Google analytics of UncommonVCU
-![](Google console.png)
+![](Google_console.png)
 
